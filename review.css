@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text&display=swap');
+
+
+body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x:hidden;
+}
+
+h1{
+    font-family: 'Nanum Myeongjo', serif;
+
+}
+
+.img-ratings{
+    width: 80%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.card-text{
+    text-align: justify;
+}
+
+
+
+h2{
+    font-family: 'Nanum Myeongjo', serif;
+
+}
+p{
+    font-size: 1.2em;
+    font-family: 'Crimson Text', serif;
+}
+
+.review-p{
+    text-align: justify;
+}
+
+option{
+    color: black;
+}
+
+
+
+header{
+    background: rgba(148, 146, 146, 0.5);
+    padding: 2em;
+}
+.header-container{
+    
+    width: 100%;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+.header-title{
+    padding-top: 1em;
+    text-align: center;
+}
+
+.header-ul{
+ list-style: none;
+ display: flex;
+ justify-content: center;
+ 
+}
+
+.header-li{
+    
+    padding: 1em;
+
+}
+
+.header-a{
+    text-decoration: none;
+    
+}
+a{
+    font-family: 'Crimson Text', serif;
+    color: black;
+}
+.header-a:hover,:focus{
+    color: #f2e6e6;
+}

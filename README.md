@@ -8,6 +8,11 @@ To obtain the code, simply follow these steps as outlined. <br>
 visit the website for reference:
 https://abacusacademy-f06cc.web.app
 
+..Tech stack:
+  : HTML
+  : CSS
+  : JAVASCRIPT
+
 
 
 
